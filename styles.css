@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Special elite',sans-serif;
+}
+h1 {
+  font-size: 50px;
+  margin-top: 30px;
+  font-family: 'Special elite',sans-serif;
+  color: #66BFBF;
+  line-height: 1;
+}
+div {
+  background-color: #F6E7D8;
+  position: relative;
+  padding-top: 28px;
+}
+h2{
+  font-family: 'Anonymous pro';
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+    font-family: 'Special elite',sans-serif;
+}
+.c2{
+  position: relative;
+  left: 700px;
+  bottom: 280px;
+}
+.c1{
+position: relative;
+right: 1000px;
+bottom: 450px;
+}
+.c3{
+position: relative;
+  left: 50px;
+  bottom: 500px;
+}
+.skill-row{
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+  }
+
+  .eat-img{
+    float: left;
+    margin-right: 43px;
+  }
+ .sing-img{
+   float: right;
+   margin-left: 43px;
+ }
+
+ .father-img{
+   float: left;
+  margin-right: 43px;
+ }
+
+ .btn {
+   background: #55a8e0;
+   background-image: -webkit-linear-gradient(top, #55a8e0, #369fe0);
+   background-image: -moz-linear-gradient(top, #55a8e0, #369fe0);
+   background-image: -ms-linear-gradient(top, #55a8e0, #369fe0);
+   background-image: -o-linear-gradient(top, #55a8e0, #369fe0);
+   background-image: linear-gradient(to bottom, #55a8e0, #369fe0);
+   -webkit-border-radius: 6;
+   -moz-border-radius: 6;
+   border-radius: 6px;
+   font-family: Courier New;
+   color: #ffffff;
+   font-size: 28px;
+   padding: 8px 15px 8px 15px;
+   text-decoration: none;
+ }
+
+ .btn:hover {
+   background: #88c7eb;
+   background-image: -webkit-linear-gradient(top, #88c7eb, #4487b3);
+   background-image: -moz-linear-gradient(top, #88c7eb, #4487b3);
+   background-image: -ms-linear-gradient(top, #88c7eb, #4487b3);
+   background-image: -o-linear-gradient(top, #88c7eb, #4487b3);
+   background-image: linear-gradient(to bottom, #88c7eb, #4487b3);
+   text-decoration: none;
+ }
+.mountain{
+  margin: auto;
+}
+hr {
+  border: dotted;
+  border-bottom: none;
+  border-width: 3%;
+  margin: rgba(255, 0, 0, 0.5);
+}
+.me{
+  margin: 40px auto 60px;
+  width: 1%;
+}
+.middle-container{
+  border-color: white;
+}
